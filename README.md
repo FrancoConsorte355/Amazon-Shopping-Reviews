@@ -1,4 +1,5 @@
-Amaon.jpeg
+![Uploading image.png…]()
+
 
 # **Amazon Shopping Reviews**
 
