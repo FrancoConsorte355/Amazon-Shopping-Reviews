@@ -1,3 +1,5 @@
+![Logo]
+
 # **Amazon Shopping Reviews**
 
 This repository contains a personal project focused on automating the entire data pipeline, from data ingestion from Kaggle to visualization in Power BI. The primary goal is to automate the entire process, while a secondary objective is to visualize insights.
