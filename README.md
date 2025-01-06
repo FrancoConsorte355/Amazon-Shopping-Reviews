@@ -1,4 +1,4 @@
-![Logo]Amaon.jpeg
+Amaon.jpeg
 
 # **Amazon Shopping Reviews**
 
