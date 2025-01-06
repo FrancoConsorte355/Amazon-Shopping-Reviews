@@ -1,4 +1,4 @@
-![Uploading image.png…]()
+![Logo](https://github.com/FrancoConsorte355/Amazon-Shopping-Reviews/blob/main/Amaon.jpeg)
 
 
 # **Amazon Shopping Reviews**
