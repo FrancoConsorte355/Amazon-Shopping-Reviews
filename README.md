@@ -11,8 +11,8 @@ Project Description: This project aims to automate the entire data pipeline, fro
 
 ## Objetives
 
-Primary: Automate the data flow from daily Kaggle updates to Power BI visualization.
-Secondary: Enable real-time data visualization to support data-driven decisions for improving the Amazon app and enhancing the customer experience.
+- Primary: Automate the data flow from daily Kaggle updates to Power BI visualization.
+- Secondary: Enable real-time data visualization to support data-driven decisions for improving the Amazon app and enhancing the customer experience.
 
 ## Data
 The project will utilize a Kaggle dataset stored in a single CSV file:
